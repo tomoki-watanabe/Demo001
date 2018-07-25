@@ -10,7 +10,7 @@ namespace TestApp
     {
         public static int DoSometing(int a, int b)
         {
-            var hoge = 399000;
+            var hoge = 1;
             return a + b;
         }
     }
